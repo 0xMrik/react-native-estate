@@ -11,18 +11,18 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        rubik: ["Rubik-Regular", "sans-serif"],
-        rubikBold: ["Rubik-Bold", "sans-serif"],
-        rubikMedium: ["Rubik-Medium", "sans-serif"],
-        rubikSemiBold: ["Rubik-SemiBold", "sans-serif"],
-        rubikExtraBold: ["Rubik-ExtraBold", "sans-serif"],
-        rubikLight: ["Rubik-Light", "sans-serif"],
+        "rubik": ["Rubik-Regular", "sans-serif"],
+        "rubik-bold": ["Rubik-Bold", "sans-serif"],
+        "rubik-medium": ["Rubik-Medium", "sans-serif"],
+        "rubik-semi-bold": ["Rubik-SemiBold", "sans-serif"],
+        "rubik-extra-bold": ["Rubik-ExtraBold", "sans-serif"],
+        "rubik-light": ["Rubik-Light", "sans-serif"],
       },
       colors: {
         primary: {
           100: '#0061FF0A',
           200: '#0061FF1A',
-          300: '#0061FF2A',
+          300: '#0061FF',
         },
         accent: {
           100: '#FBFBFD',
